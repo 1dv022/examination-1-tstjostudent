@@ -1,0 +1,1 @@
+var isok = "Should be OK";
